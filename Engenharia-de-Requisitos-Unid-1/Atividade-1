@@ -1,12 +1,1 @@
-**Henrique Mota Monteiro e João Pedro Pimentel**
-Atividade prática (2º tempo)
-Em duplas, respondam às seguintes questões:
-Quem utilizará o sistema?
-Cite 3 requisitos funcionais (o que o sistema deve fazer).
-Cite 2 requisitos não funcionais (como o sistema deve funcionar).
-Explique, em poucas palavras, por que é importante levantar os requisitos antes de desenvolver um software.
-Respostas: 
-Secretária da escola , Professores, Direção, Alunos e Responsáveis
-Cadastrar os Alunos (Criar, editar e excluir dados do aluno), Registrar a frequência, Gerar os boletins.
-Segurança e Acesso (garantir que o acesso seja feito via login e senha ), o sistema deve estar disponível online 24 horas por dia, 7 dias por semana (Principalmente para os professores)
-Levantar os requisitos antes de desenvolver um software é importante para entender as necessidades do cliente, definir as funcionalidades do sistema, evitar erros e retrabalho, reduzir custos e garantir que o software atenda aos objetivos esperados.
+https://docs.google.com/document/d/12f1giNreBauCzYcUCHqshxT2zj72lhzFP8tfqrYB3z0/edit?usp=sharing
