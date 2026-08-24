@@ -1,3 +1,4 @@
-# Olá
+# Olá 👋
+
 
 Este repositório foi criado para organizar e disponibilizar as atividades desenvolvidas na disciplina de **Engenharia de Requisitos** ao longo das unidades. Seu objetivo é reunir os trabalhos, exercícios e conteúdos produzidos durante as aulas, facilitando o acompanhamento da aprendizagem e a organização das entregas. Por meio deste repositório, serão registrados os conhecimentos adquiridos sobre levantamento, análise, documentação, validação e gerenciamento de requisitos, etapas fundamentais para o desenvolvimento de softwares que atendam às necessidades dos usuários e das organizações.
